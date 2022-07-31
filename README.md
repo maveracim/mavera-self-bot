@@ -1,4 +1,4 @@
-# 70 STAR ISTIYORUM ,)
+# 50 STAR ISTIYORUM ,)
 # SELF GUARD & CLIENT GUARD (V13)
 * Son zamanlarda yaygınlaşan self bot olayları yüzünden bu projeyi paylaşıyorum.
 * Rate limit yeme olayı botlardan daha geç olmaktadır ayrıca botun banlayamadığı yetişemediği yerleri self guard tamamlıyor.
