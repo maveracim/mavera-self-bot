@@ -10,4 +10,3 @@
 ![image](https://user-images.githubusercontent.com/81289423/181914352-b5c4e84e-374b-40c9-87d5-f00279744565.png)
 ![image](https://user-images.githubusercontent.com/81289423/181914643-78257579-b171-409a-ad17-da1b408d1e29.png)
 ![image](https://user-images.githubusercontent.com/81289423/181914675-64dd83ee-07db-4867-b104-6a9ad98a3973.png)
-# Diğer görseller yakında, henüz bitmedi.
